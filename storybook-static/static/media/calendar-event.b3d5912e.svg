@@ -1,0 +1,8 @@
+export default {
+      id: "calendar-event-usage",
+      viewBox: "0 0 16 16",
+      url: __webpack_public_path__ + "/Users/venkatana/Workspace/unido/public-website/webroot/web/themes/custom/unido_radix/src/assets/icons/main/calendar-event.svg",
+      toString: function () {
+        return this.url;
+      }
+    }

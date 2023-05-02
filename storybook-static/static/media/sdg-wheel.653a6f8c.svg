@@ -1,0 +1,8 @@
+export default {
+      id: "sdg-wheel-usage",
+      viewBox: "155.9 0.8 283.5 283.5",
+      url: __webpack_public_path__ + "/Users/venkatana/Workspace/unido/public-website/webroot/web/themes/custom/unido_radix/src/assets/icons/sdg/sdg-wheel.svg",
+      toString: function () {
+        return this.url;
+      }
+    }
