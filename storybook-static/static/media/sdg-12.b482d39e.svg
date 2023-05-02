@@ -1,8 +1,0 @@
-export default {
-      id: "sdg-12-usage",
-      viewBox: "0 0 88 80",
-      url: __webpack_public_path__ + "/Users/venkatana/Workspace/unido/public-website/webroot/web/themes/custom/unido_radix/src/assets/icons/sdg/sdg-12.svg",
-      toString: function () {
-        return this.url;
-      }
-    }

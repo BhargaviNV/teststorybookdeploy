@@ -1,8 +1,0 @@
-export default {
-      id: "filetype-xlsx-usage",
-      viewBox: "0 0 16 16",
-      url: __webpack_public_path__ + "/Users/venkatana/Workspace/unido/public-website/webroot/web/themes/custom/unido_radix/src/assets/icons/main/filetype-xlsx.svg",
-      toString: function () {
-        return this.url;
-      }
-    }

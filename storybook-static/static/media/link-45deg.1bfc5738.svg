@@ -1,8 +1,0 @@
-export default {
-      id: "link-45deg-usage",
-      viewBox: "0 0 16 16",
-      url: __webpack_public_path__ + "/Users/venkatana/Workspace/unido/public-website/webroot/web/themes/custom/unido_radix/src/assets/icons/main/link-45deg.svg",
-      toString: function () {
-        return this.url;
-      }
-    }
